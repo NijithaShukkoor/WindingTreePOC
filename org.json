@@ -1,0 +1,16 @@
+{
+  "dataFormatVersion": "0.0.0",
+  "updatedAt": "2020-03-19T13:20:06.398Z",
+  "legalEntity": {
+    "name": "Global Ltd.",
+    "address": {
+      "road": "test road",
+      "houseNumber": "test123",
+      "city": "test city",
+      "countryCode": "test country"
+    },
+    "contact": {
+      "email": "info@global.com"
+    }
+  }
+}
